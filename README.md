@@ -1,1 +1,3 @@
-# 23sept
+# maven-project
+
+Simple Maven Project
